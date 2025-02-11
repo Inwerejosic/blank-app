@@ -83,7 +83,7 @@ runnable_graph = graph.compile()
 
 # ─── STEP 4: Build the Streamlit User Interface ──────────────────────────────
 
-st.title("Decision Generator with LangGraph")
+st.title("Decision Generator")
 st.write("Enter the alternatives and their criteria values to receive a professional recommendation.")
 
 # Define the criteria in the desired order
